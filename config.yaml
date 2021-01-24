@@ -6,13 +6,13 @@ keywords:
         entanglement entropy: 5
         entanglement: 4
         holography: 5
-	holographic: 5
-	quantum information: 2
-	tensor network: 3
-	information geometry: 3
-	quantum circuit: 2
-	weak value: 1
-	weak measurement: 1
+        holographic: 5
+        quantum information: 2
+        tensor network: 3
+        information geometry: 3
+        quantum circuit: 2
+        weak value: 1
+        weak measurement: 1
 
 # 通知の閾値
 score_threshold: 0
