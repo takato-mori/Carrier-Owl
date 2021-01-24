@@ -13,6 +13,8 @@ keywords:
         quantum circuit: 2
         weak value: 1
         weak measurement: 1
+        AdS/CFT: 4
+        entropy: 3
 
 # 通知の閾値
 score_threshold: 0
