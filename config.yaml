@@ -17,6 +17,9 @@ keywords:
         entropy: 3
         Berry: 1
         modular: 1
+        black hole: 5
+        microstate: 3
+        Hayden-Preskill: 5
 
 # 通知の閾値
 score_threshold: 0
